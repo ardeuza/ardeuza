@@ -3,7 +3,7 @@
   </p>
 
 <div id="user-content-toc" align="center">
-  <h1 style="display: inline-block">👋 Halo, saya Ardeuza!</h1>
+  <h1 style="display: inline-block">👋 Halo, saya Akhmad Ferdiansyah!</h1>
 </div>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ### 👨‍💻 Tentang Saya
 
 <p align="left">
-  🚀 Halo! Saya <strong>Ardeuza</strong>, seorang pengembang perangkat lunak dengan ketertarikan mendalam pada dunia <strong>Kecerdasan Buatan (AI)</strong> dan pengembangan aplikasi web modern. Saya senang mengeksplorasi bagaimana teknologi dapat digunakan untuk menciptakan solusi inovatif dan berdampak.
+  🚀 Halo! Saya <strong>Akhmad Ferdiansyah</strong>, seorang pengembang perangkat lunak dengan ketertarikan mendalam pada dunia <strong>Kecerdasan Buatan (AI)</strong> dan pengembangan aplikasi web modern. Saya senang mengeksplorasi bagaimana teknologi dapat digunakan untuk menciptakan solusi inovatif dan berdampak.
   <br><br>
   💡 Saya aktif menggunakan bahasa pemrograman seperti <strong>Python</strong> (terutama untuk proyek AI dan backend) dan <strong>JavaScript</strong> (untuk frontend dengan <strong>React</strong> dan backend dengan <strong>Node.js</strong>). Saya juga familiar dengan <strong>PHP</strong> dan berbagai teknologi pendukung lainnya.
   <br><br>
