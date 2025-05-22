@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ardeuza/ardeuza/main/assets/header_coding.gif" alt="Ardeuza - Coding the Future with AI" width="700"/>
-  </p>
+</p>
 
 <div id="user-content-toc" align="center">
   <h1 style="display: inline-block">👋 Halo, saya Akhmad Ferdiansyah!</h1>
-</div>
+  </div>
 
 <p align="center">
   <a href="https://github.com/ardeuza">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1000&color=00AEEF&center=true&vCenter=true&width=580&lines=Selamat+Datang+di+Profil+GitHub+Saya!;Pengembang+Perangkat+Lunak;Antusias+pada+Kecerdasan+Buatan+(AI);Sering+menggunakan+Python,+JavaScript,+&+React;Mari+Berkoneksi+dan+Berkolaborasi!" alt="Animasi Teks Ketik: Ardeuza" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1000&color=00AEEF&center=true&vCenter=true&width=580&lines=Selamat+Datang+di+Profil+GitHub+Saya!;Pengembang+Perangkat+Lunak;Antusias+pada+Kecerdasan+Buatan+(AI);Sering+menggunakan+Python,+JavaScript,+&+React;Mari+Berkoneksi+dan+Berkolaborasi!" alt="Animasi Teks Ketik: Akhmad Ferdiansyah (ardeuza)" />
   </a>
 </p>
 
@@ -34,9 +34,9 @@
 ### 👨‍💻 Tentang Saya
 
 <p align="left">
-  🚀 Halo! Saya <strong>Akhmad Ferdiansyah</strong>, seorang pengembang perangkat lunak dengan ketertarikan mendalam pada dunia <strong>Kecerdasan Buatan (AI)</strong> dan pengembangan aplikasi web modern. Saya senang mengeksplorasi bagaimana teknologi dapat digunakan untuk menciptakan solusi inovatif dan berdampak.
+  🚀 Halo! Saya <strong>Akhmad Ferdiansyah</strong> (kamu bisa memanggilku Ardeuza), seorang pengembang perangkat lunak dengan ketertarikan mendalam pada dunia <strong>Kecerdasan Buatan (AI)</strong> dan pengembangan aplikasi web modern. Saya senang mengeksplorasi bagaimana teknologi dapat digunakan untuk menciptakan solusi inovatif dan berdampak.
   <br><br>
-  💡 Saya aktif menggunakan bahasa pemrograman seperti <strong>Python</strong> (terutama untuk proyek AI dan backend) dan <strong>JavaScript</strong> (untuk frontend dengan <strong>React</strong> dan backend dengan <strong>Node.js</strong>). Saya juga familiar dengan <strong>PHP</strong> dan berbagai teknologi pendukung lainnya.
+  💡 Saya aktif menggunakan bahasa pemrograman seperti <strong>Python</strong> (terutama untuk proyek AI dan backend) dan <strong>JavaScript</strong> (untuk frontend dengan <strong>React</strong> dan backend dengan <strong>Node.js</strong>). Saya juga familiar dengan <strong>PHP</strong>, <strong>Tailwind CSS</strong>, dan berbagai teknologi pendukung lainnya.
   <br><br>
   🛠️ Dalam keseharian, saya sering menggunakan tools seperti <strong>Cursor IDE</strong> dan <strong>Visual Studio Code (VSCode)</strong> untuk meningkatkan produktivitas coding saya.
   <br><br>
@@ -52,21 +52,22 @@
 <p align="center">
   <em>Berikut adalah beberapa teknologi yang sering saya gunakan dan kuasai:</em>
   <br><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="50" height="50"/> </a>&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/> </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> </a>&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> </a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> </a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50" height="50"/> </a>&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/> </a>&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> </a>&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> </a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> </a>&nbsp;
   <br><br>
   <em>Tools Favorit Saya:</em>
   <br><br>
-  <a href="https://cursor.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="cursor (menggunakan ikon Atom sebagai placeholder, ganti jika ada ikon Cursor)" width="50" height="50"/> </a>&nbsp; <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/> </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/> </a>&nbsp;
+  <a href="https://cursor.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="Cursor IDE (placeholder icon)" width="50" height="50"/> </a>&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="50" height="50"/> </a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/> </a>&nbsp;
 </p>
 
 ---
@@ -89,7 +90,7 @@
   </picture>
 </p>
 
-*Catatan: Statistik di atas akan terisi dan lebih akurat seiring dengan aktivitasmu di GitHub.*
+*Catatan: Statistik dan animasi ular di atas akan terisi dan lebih akurat seiring dengan aktivitasmu di GitHub dan setelah Action berjalan dengan benar.*
 
 ---
 
